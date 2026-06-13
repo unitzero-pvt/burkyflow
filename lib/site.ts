@@ -23,11 +23,11 @@ export const site = {
   // Metros we serve remotely (declared via Service.areaServed, never as a local presence).
   serviceAreas: ["Houston", "San Antonio", "Charleston", "Greenville"],
   social: {
-    linkedin: "https://www.linkedin.com/company/unitzero",
-    instagram: "https://instagram.com/unitzero",
-    facebook: "https://facebook.com/unitzero",
-    youtube: "https://youtube.com/@unitzero",
-    x: "https://x.com/unitzero",
+    linkedin: "https://www.linkedin.com/company/burkyflow",
+    instagram: "https://instagram.com/burkyflow",
+    facebook: "https://facebook.com/burkyflow",
+    youtube: "https://youtube.com/@burkyflow",
+    x: "https://x.com/burkyflow",
   },
 } as const;
 
