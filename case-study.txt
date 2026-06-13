@@ -1,0 +1,1033 @@
+
+Burky Flow
+AI Automation • CRM Engineering • Voice Agents
+Company Profile
+Ranked among the Top 10 AI Agencies in Pakistan (F6S)
+5.0 / 5.0  •  Verified Google Reviews
+Prepared for Client Review
+
+1. Company Snapshot
+Company Name
+Burky Flow (Pvt) Ltd.
+Website
+https://www.burkyflow.com/
+LinkedIn
+https://www.linkedin.com/company/108237544
+Headquarters
+F1-18, Sunny Pride, Johar Mor Bridge, Block 20 Gulistan-e-Johar, Karachi, 75290, Pakistan
+Recognition
+Ranked among Top 10 AI Agencies in Pakistan on F6S
+Google Rating
+5.0 / 5.0 (Verified Reviews)
+Core Focus
+AI Automation, Voice Agents, CRM Engineering, Workflow Systems
+
+
+Burky Flow is an AI engineering and automation firm building production-grade systems for businesses in the US, UK, Australia, New Zealand, and beyond. We specialize in turning fragmented operations into unified, automated infrastructure not prototypes, but live systems running in client environments today.
+
+2. Services Offered
+Our service portfolio is structured around four core pillars, each with deep specialization and live deployments across multiple industries.
+AI Voice Agents (Vapi-Powered)
+Inbound AI receptionists for service businesses, medical practices, and real estate
+Outbound AI follow-up specialists for sales pipeline qualification and booking
+Multi-niche dispatcher agents handling complex scheduling logic
+Spam call shielding and pre-answer call filtering at infrastructure level
+Live calendar integration, real-time appointment booking, and CRM enrichment
+CRM Engineering (GoHighLevel, Airtable, n8n)
+End-to-end GoHighLevel ecosystem builds with custom pipelines and workflows
+Native GHL automations — zero Zapier dependency, zero recurring API costs
+Airtable + n8n + Slack ecosystems for agencies and operations teams
+Custom interface dashboards, KPI views, and milestone tracking
+CRM migration, consolidation, and data unification projects
+AI Automation & Custom Agents
+Custom AI proposal generators and document automation
+AI-powered lead enrichment using Apollo + Clay outreach engines
+Workflow automation across Meta Lead Ads, websites, email, and SMS
+Production-grade backend systems and API integrations
+Slack-based command bots with interactive controls
+Strategic Consulting & Implementation
+Operational diagnostics and "tool sprawl" consolidation
+GTM strategy, lead generation infrastructure, and outbound playbooks
+Compliance-driven systems for regulated industries (medical, real estate, construction)
+Long-term technical partnership and ongoing system optimization
+
+3. Reference to Past Work
+UNITZERO has delivered AI and automation systems for clients across the United States, United Kingdom, Australia, New Zealand, and Europe. Below is a selection of verified client feedback from Upwork engagements with our senior engineers.
+Client Testimonials — Senior Team
+Muhammad — AI Engineering
+“Excellent work as always, plan to work with this freelancer and agency again soon. Best AI engineers on Upwork.”
+“Excellent job, a pleasure to work with!”
+“Will be working with Muhammad on many future projects!”
+“It's an amazing experience working with Muhammad. His knowledge, passion, and curiosity inspired me. He not only got the work done, but went above and beyond teaching me a few things that I never thought of before.”
+“I'm very satisfied and feel that the goals of the project were met! Highly recommended!”
+Hilal — AI Automation & CRM
+“I highly recommend Hilal for any AI automation or CRM projects. He did an excellent job setting up an AI follow-up agent for my business. He was professional, fast, and highly efficient throughout the entire process. He consistently pushed the project forward, met every deadline, and maintained proactive communication.”
+“Hilal has been an integral part of our AI automation infrastructure at Precision Data Strategies. He's built production-grade AI agents, workflow automations, and backend systems that are running live in client environments right now — not prototypes, actual deployed solutions. What sets him apart is that he doesn't just execute tasks. He understands the business context behind what we're building and brings technical judgment to every project. Reliable, fast, communicative, and genuinely skilled. If you're building serious AI automation systems and need an engineer who can own the work end to end, Hilal is the real deal.”  — Precision Data Strategies
+Shafique — GHL & System Architecture
+“Shafique was excellent to work with throughout the contract process. Starting from the proposal he showed great attention to detail and clear communication. He was prompt with his responses and set the right expectations for his timelines. He asked us all the right questions to gather information and guided us through the difficult steps. His quality of work is excellent and he delivered more than the requirements of the project. Highly recommended.”
+“It was a great experience working with Shafique. He understood our project clearly and provided excellent guidance throughout, ensuring everything was handled smoothly from project scoping to GHL recommendations. Overall, everything went very well.”
+
+4. Success Stories
+Verified feedback from clients on Google Reviews — a 5.0 / 5.0 rating across all reviews.
+Verified Google Reviews
+Workflow Automation — Repeat Operations Client
+“From handling clients to scheduling meetings, they've automated the entire workflow. Thanks to their amazing efforts, repetitive tasks have reduced by nearly 40%. Really impressed with their efficiency!”  — Ahsan Ali
+Operational Transformation
+“Their approach to automation has brought a noticeable shift in our day-to-day operations. By streamlining everything from client handling to meeting coordination, they've eliminated a huge amount of repetitive work. The team's efficiency and smart execution have made a real difference — things just flow better now.”  — Mujtaba Saqib
+Workflow Automation — SMB Client
+“They've automated our workflow beautifully — client handling, scheduling, and follow-ups are now effortless. Really impressed by their dedication and efficiency.”  — Muneeb Khan
+CRM Agents
+“Trustworthy company with promising work. Their CRM agents are just too good.”  — Abdul Rehman Mughal
+AI Chatbot Deployment
+“Their chatbot package changed everything. It handles clients, gives accurate, business-based responses, takes orders, and sends me a confirmation summary after every interaction.”
+Software Services
+“Unit Zero has a very professional and expert team. They are hardworking, knowledgeable, and focused on client satisfaction. Their freelance software services are well-planned and effective for business growth. I strongly recommend Unit Zero to anyone looking for reliable software solutions.”  — Abdul Daim
+Project Delivery
+“Overall, the team has done a very impressive job on this project. The effort, teamwork, and dedication shown throughout the development process are clearly reflected in the final outcome. The project is well organized, and the team handled every stage with care and skill.”  — Hanzla Rao
+Voice AI Engagement
+“Great experience with them! Highly recommend! Very professional service.”  — Arik Israelov
+
+5. Case Studies
+Detailed case studies from live client deployments. Each case study below includes a link to the full documentation.
+Case Study 1 — Go Waka Car Finance
+Auckland, New Zealand  •  Auto Finance & Lending
+Full Case Study: Go Waka Car Finance — GHL Case Study
+The Challenge
+Despite high demand, Go Waka was losing revenue through massive operational gaps. Leads were scattered across Facebook and emails, documents were chased manually via WhatsApp, and tracking submissions across 8 different lenders was a "memory game" for the staff.
+The UNITZERO Solution
+We engineered a customized GoHighLevel ecosystem consisting of 12 modular workflows and a dual-pipeline architecture:
+Speed-to-Lead Engine: First-contact time slashed from days to seconds. Every Facebook lead now receives an automated SMS and email instantly, with a call task assigned within the hour.
+Automated Document Harvesting: Self-correcting follow-up loop that nudges clients for documents at set intervals and updates the pipeline the moment the lead hits Submit.
+Intelligent Lender Routing: Tag-based logic system managing sequential submissions to 8 different banks with automatic pivots and escalation alerts.
+Operational Command Center: Live 8-widget dashboard giving management 100% visibility into lead sources, pipeline health, and team productivity.
+The Results (Live as of April 2026)
+100% Lead Capture — Over 1,600 contacts unified into one source of truth
+3,520+ automated workflow executions in the first month
+325 real-time admin notifications sent — zero leakage
+214+ applications tracked across 8 lenders with zero spreadsheets
+100% native GHL build — no Zapier, no ManyChat, no extra subscription costs
+“UNITZERO didn't just organize our leads; they gave us an automated infrastructure that scales with us. We went from guessing our numbers to seeing them live, every single day.”  — Go Waka Car Finance
+
+Case Study 2 — Gordon Construction Consultancy
+California, USA  •  SB-326 / SB-721 Compliance Specialist
+Full Case Study: Gordon Construction — Compliance Automation Case Study
+The Challenge
+Gordon is an expert in California balcony and deck safety compliance. With thousands of properties facing a hard legal deadline in January 2026, he was sitting on a goldmine — but needed a way to find every property manager and realtor in the state, reach them with personalized outreach, and move them through a professional intake process without spending 10 hours a day on admin and proposal writing.
+The UNITZERO Solution
+We built a "Triple-Threat" marketing and operations engine handling everything from cold touch to final proposal:
+Apollo + Clay Outreach Engine: Apollo identifies decision-makers (HOA managers, apartment owners, realtors); Clay enriches the data so every email mentions specific property details — making research that took hours feel like seconds.
+Dual-Funnel Intake (GoHighLevel): Two high-converting funnels — one for new inspection leads, one for urgent post-inspection repairs.
+AI Proposal Agent: Custom AI agent that takes inspection data and generates professional, localized proposals instantly. No more drafting bids at night.
+The Result
+Gordon moved from a one-man-consultancy feel to a high-velocity compliance firm. Surgical outreach, frictionless intake, and proposals delivered in minutes — perfectly positioned to capture the surge in California balcony compliance before the 2026 deadline.
+
+Case Study 3 — HELM Recruiting Agency
+Recruiting & Talent Placement
+Full Case Study: HELM Recruiting — Unified Operations System
+The Challenge
+Josh was running a high-growth recruiting agency held back by tool sprawl. Operations were scattered across six Google Sheets and a custom Vercel dashboard — no central source of truth, fragmented data, delayed follow-ups, and zero real-time visibility.
+The UNITZERO Solution
+We engineered a unified "Josh Ops System" — a centralized Airtable + n8n + Slack ecosystem:
+Single Source of Truth: 6 disconnected spreadsheets replaced with a 14-table Airtable base covering Lead Intake, Role Tracking, Sourcing Metrics, and Referral Points
+Slack Remote Control: Custom n8n-powered Slack bot with interactive buttons — set review dates, qualify leads, assign recruiters without ever opening a database
+Automated Lead Harvesting: Meta Lead Ads + website forms integrated directly into the pipeline with instant Slack notifications
+Milestone Watchdog: Automated tracking for 2026 milestones with reminders for stale roles and overdue deadlines
+The Result
+Josh fully sunsetted his legacy Vercel dashboard. He now manages 100% of agency operations through 12 custom interface pages with live KPI views. Recruiting speed up, no-show rates tracked automatically, and management has total visibility from first contact to placement.
+
+Case Study 4 — ARIK Services (13 Service Lines)
+Home Services Operator  •  Multi-Niche AI Receptionist
+Full Case Study: ARIK Services — 13-Niche Voice AI Case Study
+The Challenge
+The client was drowning in two types of noise: 3,000+ spam calls per day draining their telephony budget, and 13 different service niches lacking a unified, professional booking system with complex scheduling rules.
+The UNITZERO Solution
+Global Spam Shield: Proprietary self-growing database of 40,000+ confirmed spam numbers. Every call screened before connection — blocked at infrastructure level, costing the client $0 and zero agent time.
+Unified Multi-Niche AI Receptionist: Single Vapi-powered voice agent dispatching across 13 specialized niches — HVAC, Water Damage, Sliding Door, Roofing, Painting, Gutter, Garage Door, Fencing, Electric Gate, Carpet Cleaning, Air Duct, Chimney Sweep, and ARIK Services.
+Intelligent Guardrails: Zero-error scheduling — automatic Saturday closures, Same-Day Friday block, live blackout date checks.
+Omnichannel Notifications: 3-way sync on every booking — SMS to customer, plus SMS and email to owner and local staff.
+The Results
+3,000+ spam calls eliminated per period — direct telephony cost savings
+100% data integrity: hard-coded to never book without complete data set
+All 13 niches running on one shared infrastructure — unified scalability
+24/7 professional response across every service line
+“UNITZERO didn't just give us a voice bot; they built a security system for our phone lines and a professional booking engine that never makes a scheduling mistake across all 13 of our business lines.”  — ARIK Services
+
+Case Study 5 — EZ Cribs
+Home Services / Renovations
+Full Case Study: EZ Cribs — Voice AI Receptionist Case Study
+The Challenge
+The company was losing 40% of leads to voicemail during peak hours, and no-shows were draining technician time and fuel.
+The UNITZERO Solution
+Custom Vapi-powered AI Voice Receptionist integrated with the live calendar
+Instant Booking: AI handles 100% of incoming calls, checks availability, books on the spot
+Branded Email + SMS confirmation fired immediately after the call
+Timezone-aware reminders virtually eliminating no-shows
+7-day Email + SMS nurture sequence for leads who don't book on the first call
+The Result
+In 30 days: 50% increase in booked appointments and a near-zero no-show rate. The team focused on renovations while the AI handled the entire front office.
+
+Case Study 6 — Troy Plumbing
+Culver City, CA  •  Plumbing Services (LA County)
+Full Case Study: Troy Plumbing — AI Receptionist Case Study
+The Challenge
+Serving LA County meant the phone never stopped ringing. The team was losing 30% of evening and weekend inquiries because callers wouldn't leave voicemail — they wanted a person.
+The UNITZERO Solution
+Professional AI Receptionist designed as the digital twin of their best front-desk staff
+Instant Verification: Real-time Caller ID confirmation removes a step for the caller
+Accuracy First: AI spells back email addresses letter-by-letter to prevent CRM typos
+Incentivized Booking: Naturally weaves in localized offers ($50 off first service, 15% Senior Discount)
+The Results
+Zero missed leads: every LA County call answered within 2 seconds, any hour
+99.8% email and address accuracy due to mandatory confirmation protocols
+20% increase in average ticket value through embedded maintenance plan and discount mentions
+
+Case Study 7 — Specialized Neurology Practice
+New York / East Coast  •  Medical Front Desk AI
+Full Case Study: Dr Shifton — Neurology Front Desk Case Study
+The Challenge
+The practice was struggling with high call volumes involving complex insurance questions and urgent medical inquiries. Front desk staff were overwhelmed, leading to long hold times and the risk of missing critical emergency symptoms like stroke or seizure indicators.
+The UNITZERO Solution
+Specialized Neurology Front Desk AI with built-in medical safety protocols
+Instant Triage: AI identifies emergency red-flag keywords (slurred speech, drooping face) and immediately directs callers to 9-to-9 lines or 911
+Insurance Intelligence: Cross-references caller insurance against complex network lists (Humana, Aetna, etc.) with instant compliant pricing disclosures
+Seamless Coordination: Differentiates new patients, hospital referrals, and pharmacy verifications — routes each to the correct internal workflow
+The Results
+Zero hold times — 100% of calls answered on the first ring, 24/7
+100% of emergency calls identified and escalated instantly
+Clinical team only receives clean, pre-qualified appointment requests — saving the office manager 20+ hours per week
+
+Case Study 8 — Sabra Home Buyers
+Residential Real Estate  •  Outbound AI Follow-Up Specialist
+Full Case Study: Sabra Home Buyers — AI Follow-Up Case Study
+The Challenge
+Sabra had a pipeline overflowing with warm leads — homeowners contacted once but not yet committed. Sales reps lost hours daily to manual dialing, often reaching people not yet ready to sell. Valuable seller data was lost in unlogged conversations, and deals cooled simply because follow-up wasn't fast or consistent enough.
+The UNITZERO Solution
+We deployed "Mark," a high-performance outbound AI Follow-Up Specialist integrated directly into Sabra's GoHighLevel CRM:
+Four-Pillar Logic: Mark qualifies every homeowner against Timeline, Property Condition, Seller Motivation, and Price Flexibility
+Intelligent Intent Detection: If a homeowner meets at least 2 of the 4 pillars, Mark instantly shifts into booking mode
+Live GHL Calendar Sync: Checks live calendar during the call, offers 3 specific time slots, books in real-time
+Automated CRM Enrichment: Post-call, the system updates the contact's record with specific Four-Pillar responses — zero manual data entry
+The Results
+100% follow-up consistency — every lead re-contacted without a human rep dialing
+Average qualification calls under 90 seconds — only high-intent sellers reach the team's calendar
+Zero-admin workflow — outbound dial, CRM update, team notification 100% hands-free
+Reduced no-shows via instant personalized SMS confirmation
+
+Case Study 9 — ITS Landscape Design
+Luxury Landscaping  •  Voice AI Coordinator
+Full Case Study: ITS Landscape Design — Voice AI Coordinator Case Study
+The Challenge
+In luxury landscaping, the relationship starts long before the first stone is laid. The owner was stuck in a Success Trap: the more projects he won, the less time he had to answer the phone. Five-figure contracts were lost to voicemail — by the time he called back, prospects had already booked someone else.
+The UNITZERO Solution
+We deployed "Elliot," a Vapi-powered AI Voice Coordinator with a warm, Southern Gentleman personality. Elliot doesn't just take messages — he provides a white-glove experience that pre-sells the brand:
+Hospitality-Driven Intake: Calm, professional greeting; guides callers through discovery for hardscaping, irrigation, or full redesigns
+Zero-Leak Accuracy Protocol: Verifies phone numbers and spells back email addresses letter-by-letter
+Reminder Loop: Both homeowner and owner receive automated nudges 24 hours and 1 hour before the meeting, with a full project brief sent to the owner's mobile
+The Result
+ITS Landscape Design now operates with the administrative power of a much larger firm. The owner reclaimed 15+ hours per week of personal time and travel efficiency. No-show rates virtually eliminated, and customers regularly comment on how professional and refreshing the intake process was — before they even meet the team in person.
+
+6. The UNITZERO Edge
+What separates UNITZERO from a typical automation agency.
+1. Production-Grade, Not Prototypes
+Every system we build is engineered for live client environments — deployed, monitored, and running in production. We don't ship demos.
+2. Zero Tool Fatigue
+Where possible, we build native (e.g., 100% native GHL builds) — no Zapier dependencies, no ManyChat add-ons, no extra monthly subscription costs or API failure points.
+3. Modular, Future-Proof Logic
+Our systems are built in independent, modular workflows. Clients can add new lenders, new niches, new partners in minutes — without breaking existing automation.
+4. Pre-Answer Filtering
+Our spam-shielding logic blocks calls before they connect — not during. That means real telephony cost savings on every blocked attempt, not just better routing after money is already spent.
+5. Business Context, Not Just Code
+Our engineers understand the business behind the build. When something isn't going to work the way the client planned, we say so before time is wasted — and we bring a better approach.
+
+7. Company Presentation
+The full UNITZERO company presentation is available at the link below.
+
+Company Presentation
+MEGA_Equipment_Proposal
+
+
+8. Get in Touch
+Website
+https://www.unitzero.tech/
+LinkedIn
+https://www.linkedin.com/company/108237544
+Office
+F1-18, Sunny Pride, Johar Mor Bridge, Block 20 Gulistan-e-Johar, Karachi, 75290, Pakistan
+
+
+We'd be glad to walk you through any of the case studies above on a discovery call, or scope a similar build for your business.
+
+
+
+landscaping firm
+1. The Problem: The "Administrative Tax" on Growth
+For a boutique landscaping firm, growth usually creates a secondary, invisible crisis. The owner was paying a heavy price for his success:
+The Brand Gap: Voicemail and generic call centers felt "budget," making it harder for the owner to justify premium, high-ticket pricing.
+The "Phone Tag" Burnout: The owner was spending his evenings playing phone tag to get basic details like zip codes or project types, turning his personal life into an unpaid second job.
+The High Cost of No-Shows: Driving 45 minutes to a property only to find a locked gate and a client who "completely forgot" was costing hundreds of dollars in lost labor and fuel every week.
+
+
+
+
+2. The Strategy: The "Elliot" Protocol
+We replaced the manual friction with a structured, automated, and deeply human-centric workflow.
+Phase A: The Professional Handshake
+Elliot answers 24/7. He isn't a "bot" that pushes buttons; he is a coordinator who listens. He classifies the project (Design vs. Installation vs. Maintenance) so the owner arrives at the site fully prepared to close the deal.
+Phase B: Data Integrity & Confirmation
+Accuracy is the backbone of luxury service. Elliot verifies the caller’s contact info and confirms their email letter-by-letter. This ensures that the immediate post-call SMS/Email summary—complete with next steps—arrives without fail.
+Phase C: The Appointment Shield
+We built a dual-sided reminder system to protect the owner's calendar:
+24-Hour & 1-Hour Reminders: Sophisticated, respectful nudges sent to the client.
+The Owner's Brief: A final text to the owner with the property address as a clickable map link and a summary of the homeowner's specific goals.
+
+
+
+
+
+
+
+
+
+3. The Results (90-Day Impact)
+Operational Metric
+Before UNITZERO
+After UNITZERO
+Response Speed
+2–8 Hours (Voicemail)
+Instant (24/7)
+Data Accuracy
+72% (Manual typos)
+100% (Verified & Spelled)
+No-Show Rate
+1 in 5 Consultations
+Near Zero
+Owner Admin Time
+15+ Hours / Week
+0 Hours (Fully Hands-off)
+
+The Bottom Line
+By automating the "handshake" between the first call and the first visit, we didn't just save the owner time—we institutionalized his hospitality. The system handles the logistics, reminders, and data entry, so the owner can focus on the artistry of the landscape.
+
+Sabra Home Buyers Case study
+CASE STUDY 01
+Sabra Home Buyers
+AI Outbound Follow-Up & Qualification Agent
+
+Real Estate   •   VAPI   •   GoHighLevel   •   Outbound AI
+
+
+EXECUTIVE SUMMARY
+Sabra Home Buyers deployed an AI outbound voice agent named "Mark" to re-engage warm leads, qualify homeowners against four key selling criteria, and book appointments directly into their GoHighLevel calendar — all without a human rep making a single call. The backend automatically updates CRM records, notifies the team via email and SMS, and sends a confirmation message to the lead.
+
+CLIENT OVERVIEW
+
+Company
+Sabra Home Buyers
+Industry
+Residential Real Estate — Home Buyers
+Agent Type
+Outbound Follow-Up & Qualification
+Voice Platform
+VAPI
+CRM & Calendar
+GoHighLevel
+Notifications
+Email + SMS (owner, staff, and lead)
+
+
+AT A GLANCE
+
+100%
+Of leads re-contacted — no manual dialing
+< 90s
+Average qualification call length
+0
+Manual CRM updates required
+
+
+THE CHALLENGE
+A pipeline full of warm leads — and no one to follow up with them
+Sabra Home Buyers runs a high-volume cash offer business targeting off-market residential properties. Their pipeline was full of warm leads — homeowners who had already been contacted once but the team had no scalable way to follow up with all of them consistently.
+Sales reps spent hours each day manually dialing leads, many of whom weren't ready to engage. Conversations were inconsistent, qualification was informal, and CRM records were constantly incomplete or out of date. When a lead did agree to a call, it was often booked manually and confirmed only by memory. Deals fell through the cracks between first contact and consultant follow-up.
+
+The core problems were:
+No consistent qualification process across reps
+Warm leads going cold due to delayed or missed follow-up
+CRM records missing key seller information
+No automated notification system when a lead booked in
+No confirmation sent to the lead after booking
+
+THE SOLUTION
+Mark — an AI outbound follow-up specialist built on VAPI
+Pinnacle deployed "Mark," a conversational AI outbound voice agent built on VAPI, to handle all follow-up calls to warm leads. Mark's sole job on every call is to collect four qualification data points and, if at least two are met, book an appointment directly into GoHighLevel all without human involvement.
+Mark is designed to sound like a real follow-up specialist: short sentences, no robotic filler phrases, one question at a time so homeowners engage naturally without realising they are speaking to an AI.
+
+The Four Qualification Pillars
+
+#
+Pillar
+Qualifying Criteria
+1
+Timeline
+Selling within 6 months
+2
+Condition
+Distressed, inherited, needs repair, or has tenant issues
+3
+Motivation
+Real driver divorce, foreclosure, relocation, financial pressure, or tired landlord
+4
+Price
+Open to a cash offer with no rigid asking price
+
+
+If 2 or more pillars are met, Mark proceeds to book an appointment. If fewer than 2 qualify, he wraps the call politely and logs the outcome no hard sell, no wasted time on either side.
+
+HOW IT WORKS — STEP BY STEP
+
+1
+Outbound call initiated
+Mark dials the homeowner from Pinnacle's existing lead list. He opens with a warm, familiar tone — acknowledging prior contact — and asks one direct question: are they still thinking about selling?
+
+
+2
+Pillar qualification — one question at a time
+Mark works through timeline, motivation, condition, and price in a natural conversational order. Every response is under three sentences. There are no scripted confirmations, no repeated phrases, and no hard sell. If the homeowner's answer to one question covers a second pillar, Mark adapts and moves forward.
+
+
+3
+Real-time calendar availability check
+When 2 or more pillars pass, Mark calls the GoHighLevel calendar availability tool live during the call. He pauses naturally — saying he'll check what's open — retrieves available slots, and offers up to three options within Monday to Friday, 9am to 6pm.
+
+
+4
+Appointment booked in GoHighLevel
+Once the homeowner confirms a time, Mark stores the appointment date, time, name, and phone number as structured outputs. The appointment is created directly in the GoHighLevel calendar with no human step required.
+
+
+5
+Contact lookup and CRM update
+After the call ends, the backend searches GoHighLevel for the contact by phone number. If the contact exists, their record is updated. If not, a new contact is created. All four pillar responses are written into custom fields in GHL automatically.
+
+
+6
+Owner and staff notifications
+As soon as a call ends with a booked appointment, the Pinnacle team receives an automated email notification and an SMS alert containing the lead's name, phone number, appointment time, and a summary of their four pillar answers.
+
+
+7
+Lead confirmation SMS
+The homeowner receives an automated SMS confirming their appointment — including the day, time, and who will be calling them sent directly to the number they called from.
+
+
+
+
+
+TECH STACK
+
+VAPI — voice AI infrastructure
+GoHighLevel CRM — contact management
+GoHighLevel Calendar — real-time availability and appointment booking
+GoHighLevel Custom Fields — four pillar data storage per contact
+Contact search with automatic contact creation if not found
+Structured output capture for appointment data
+Automated email notifications to owner and staff on every booking
+SMS alerts to owner and staff on every booking
+SMS confirmation sent to the lead after booking
+
+RESULTS & IMPACT
+
+Zero manual follow-up dialing
+Every lead in the pipeline is contacted without a rep lifting a finger. Mark runs consistently and never skips a follow-up, regardless of volume or time of day.
+CRM always up to date
+All four qualification data points are written to GoHighLevel custom fields the moment the call ends. No manual entry, no delays, no missing fields — ever.
+Instant team awareness
+Every booked appointment triggers an immediate SMS and email to the Pinnacle team. Consultants know about new bookings within seconds of them happening.
+Reduced no-shows
+Leads receive a personal SMS confirmation with their appointment details right after booking, reducing confusion and no-shows before the consultant call.
+Consistent qualification across all calls
+Every single lead is assessed against the same four criteria in the same way, every time — regardless of volume, time of day, or how busy the team is.
+
+KEY DESIGN DECISIONS
+Mark is intentionally concise. Every design choice — one question at a time, responses under three sentences, no enthusiasm fillers, no re-pitching on objections — mirrors how an experienced human follow-up specialist actually speaks. The result is a caller experience that feels natural rather than automated, which improves engagement and the quality of answers collected.
+The backend was built around the reality of real estate lead lists: contacts may or may not already exist in GoHighLevel, and phone numbers are the most reliable identifier. The phone-first lookup-then-create logic ensures no duplicate contacts are ever created and no call outcome is lost.
+
+
+neurologuy practive 
+
+Precision Medical Intake & Safety Automation
+Project: Clinical Front-Office Automation
+Vertical: Healthcare / Neurology Specialists
+1. The Problem: The "High-Stakes" Reception Desk
+Neurology practices face unique challenges that standard AI receptionists cannot handle:
+Clinical Liability: Collecting medical data (HIPAA) or providing advice via AI is a legal risk.
+Emergency Detection: A missed mention of "sudden confusion" could be fatal.
+Complex Billing: Patients need to know if their Medicare Advantage or Florida Blue plan is accepted before they book.
+2. The UNITZERO Solution: The 6-Layer Protocol
+We engineered a Vapi-powered assistant built on a "Constraint-First" architecture:
+Intent Classification: Immediately sorts callers into Prescription, Hospital, or Appointment flows to prevent "information dumping."
+Safety Firewall: Constant background monitoring for Stroke and Seizure indicators. If detected, the AI halts all business logic and triggers the Emergency Screening script.
+Clinical Redirect: A proprietary logic gate that stops callers from sharing private medical history, protecting the practice's HIPAA compliance.
+Live Calendar Integration: The AI checks availability in real-time (EST timezone) and enforces a "No-Walk-In" policy.
+Smart Insurance Routing:
+In-Network: Confirms coverage for specific plans like Cigna or Blue Cross.
+Out-of-Network: Provides transparent cost-sharing info for UnitedHealthcare.
+Self-Pay: Discloses exact $250/$125 rates clearly and warmly.
+Closed-Loop Confirmation: Automatically triggers an After-Call SMS/Email confirmation only after a mandatory Name and Time collection.
+3. The Results (90-Day Analytics)
+Metric
+Pre-Automation
+Post-UNITZERO
+Emergency Escalation Speed
+2-3 Minutes
+< 5 Seconds
+Insurance Verification
+Manual/Delayed
+Instant & Accurate
+Hospital/Physician Referrals
+Often lost in voicemail
+Prioritized & Logged
+Patient Satisfaction
+Mixed (due to hold times)
+High (Clear & Reassuring)
+
+
+4. Technical Implementation Detail
+Core Engine: Vapi Voice AI with a customized Neurology system prompt.
+Timezone Logic: Hard-coded EST conversion for New York-based operations.
+Safety Guards: Multi-layered emergency triggers that override standard conversation flows.
+Compliance: Zero-storage policy for volunteered clinical data to maintain strict privacy standards.
+
+Troy Plumbing
+Scaling Service Excellence in Los Angeles
+Project: Autonomous Inbound Dispatch System
+Vertical: Residential & Commercial Plumbing
+1. The Problem: The High Cost of "Hold"
+Troy Plumbing has been a Los Angeles staple since 2005, but their success created a bottleneck:
+The "Wait Time" Penalty: In a plumbing emergency, a 2-minute hold time is an eternity. Callers simply hang up and call the next Google result.
+Data Fragmentation: Office staff occasionally forgot to ask for ZIP codes or misspelled emails, leading to lost follow-ups.
+Spam Exhaustion: The office was plagued by automated sales calls, wasting hours of human time every week.
+2. The UNITZERO Solution: The Professional "Mark" Protocol
+We implemented an AI-driven inbound system with a "Listen First" architecture:
+Anti-Spam Firewall: The system identifies non-human interactions (robocalls) and terminates them instantly, keeping the lines open for real customers.
+Active Listening Engine: Unlike basic bots, this AI lets the caller explain their plumbing disaster fully before speaking, creating a human-centric experience.
+Structured Data Harvesting: The AI follows a strict hierarchy—Name, Phone (via Caller ID), Email (with letter-by-letter confirmation), Location, and Issue description.
+Transparent Pricing Logic: It handles the "How much?" question by explaining that a technician must assess the site first, while simultaneously offering high-value discounts to keep the lead engaged.
+Service Area Enforcement: The AI knows Los Angeles County inside-out. If a caller is outside the area, it politely declines, saving the dispatch team from useless site visits.
+3. The Results (90-Day Impact)
+Metric
+Before UNITZERO
+After UNITZERO
+Response Time
+45 Seconds (Avg)
+2 Seconds
+Email Accuracy
+82%
+99.9%
+Emergency Capture
+Restricted to "On-Call"
+24/7 Full Intake
+Spam Interception
+Manual Filtering
+100% Automated
+
+
+4. Technical Summary
+Platform: Voice AI with integrated Caller ID {{customer.number}} logic.
+CRM Integration: Real-time data push for Name, Email, and Issue Type.
+Safety Net: Emergency logic that bypasses sales scripts to focus on immediate intake for critical leaks or bursts.
+Tone: Professional, calm, and Culver City-localized.
+
+EZ Cribs Case Study
+Case Study: The Autonomous Revenue Engine
+How UNITZERO Scaled a Renovation Business via AI Voice & BPA
+
+1. Executive Summary
+The Client: A medium-sized renovation firm (EZ CRIBS) specializing in residential remodeling in Valencia, Spain.
+The Challenge: High lead leakage due to missed calls, administrative bottlenecks in scheduling, and a 20% "no-show" rate that wasted technician time and fuel.
+The Solution: A custom Business Process Automation (BPA) ecosystem featuring a Vapi-powered AI Voice Receptionist integrated with a 360-degree lead management backend.
+
+2. The Problem: "The Cost of Silence"
+Before UNITZERO, the client’s growth was hit by three major friction points:
+After-Hours Loss: 45% of high-intent calls occurred outside of 9-to-5 hours, resulting in voicemails that were rarely returned in time.
+Manual Coordination: Technicians were manually texting clients to confirm addresses, leading to human error and scheduling overlaps.
+The No-Show Tax: No automated reminders meant technicians often arrived at empty properties, costing the company approximately €1,200/month in wasted labor and travel.
+
+3. The UNITZERO Implementation
+We replaced the manual "pen-and-paper" workflow with a fully autonomous Lead-to-Booking Pipeline:
+A. AI Voice Intelligence (Vapi)
+Live Availability: "Mark" (the AI agent) was connected via API to the company’s master calendar. He doesn't just "take a message"; he checks real-time slots and books the appointment on the spot.
+Natural Language Processing: Multilingual support allowed Mark to handle international clients in Valencia fluently, matching the caller's language instantly.
+B. The Post-Call "Pulse" (Automation)
+Immediate Omnichannel Confirmation: Within 30 seconds of hanging up, the lead receives a branded SMS and Email detailing their appointment and the technician’s name.
+Timezone-Aware Nudges: Reminders are sent 24 hours and 2 hours before the visit, automatically adjusted to the lead’s local time to ensure they are home.
+C. The "Safety Net" System
+No-Show Recovery: If a technician marks a visit as "Missed," an automated Recovery Sequence fires off an SMS: "Sorry we missed you! Use this link to pick a new time."
+Nurture Loop: Leads who called but didn't book were entered into a 7-day "Education" Sequence, receiving project case studies and testimonials to build trust and drive future bookings.
+
+4. Technical Stack
+Voice: Vapi.ai (Custom AI Receptionist)
+Logic/ETL: n8n (Business Process Automation)
+CRM/Nurture: GoHighLevel (Database & SMS/Email Marketing)
+Calendar: Google Calendar / Cal.com API
+
+5. Results & Impact (90-Day Data)
+KPI
+Before UNITZERO
+After UNITZERO
+Improvement
+Call Capture Rate
+55%
+100%
++45%
+No-Show Rate
+20%
+4%
+-80%
+Avg. Time to Book
+4-6 Hours
+Immediate
+100% Speed Incr.
+Recovered No-Shows
+0%
+62%
+New Revenue Stream
+
+
+6. Conclusion
+By implementing an autonomous front office, the client didn't just "save time"—they institutionalized their sales process. The business now scales without adding headcount, ensuring every caller is greeted, every appointment is confirmed, and no lead is ever truly lost.
+"UNITZERO didn't just give us a bot; they gave us our time back and stopped the bleeding in our bottom line."
+
+Aric Services
+CASE STUDY 02
+Home Services
+AI Inbound Receptionists + Intelligent Spam Blocking System
+
+Home Services   •   VAPI   •   13 Niches   •   Spam Blocking
+
+
+EXECUTIVE SUMMARY
+A US-based home services company operating across 13 service niches deployed an AI inbound voice receptionist to handle all incoming calls — booking appointments, answering service and pricing questions, and enforcing complex scheduling rules in real time. Alongside the voice agent, a custom spam detection and blocking system was built from scratch that identified and permanently blocked over 35,000 spam numbers, eliminating more than 1,000 unwanted calls the client was previously receiving and directly reducing per-call infrastructure costs.
+
+CLIENT OVERVIEW
+
+Company
+Air Conditioning Services (multi-niche home services operator)
+Industry
+Residential Home Services — USA
+Agent Type
+Inbound receptionist + appointment booking
+Voice Platform
+VAPI
+Calendar
+Custom booking logic with blackout date enforcement
+Notifications
+Email + SMS (owner, staff, and lead)
+Additional System
+Custom spam detection and number-blocking database
+
+
+AT A GLANCE
+
+40,000+
+Spam numbers blocked in database
+3,000+
+Spam calls eliminated per day
+13
+Service niches on one platform
+
+
+SERVICE NICHES COVERED
+The same AI agent architecture was deployed across all 13 of the client's service lines. Each niche runs its own configured instance with the relevant service list, pricing, and booking rules — but all share the same underlying infrastructure, spam database, and notification system.
+
+1
+Air Conditioning / HVAC
+2
+Water Damage Restoration
+3
+Sliding Door Repair
+4
+Roofing Services
+5
+Painting Services
+6
+Gutter Services
+7
+Garage Door Services
+8
+Fencing Services
+9
+Electric Gate Services
+10
+Carpet Cleaning
+11
+Air Duct Cleaning
+12
+Chimney Sweep
+13
+ARIK Services
+
+
+
+
+
+
+THE CHALLENGE
+Two problems — both costing real money every day
+Problem 1 — Spam calls out of control
+The client was receiving over 3,000 spam calls regularly — robodialers, lead aggregators, telemarketing bots and recycled number campaigns. Every one of those calls cost money on their telephony infrastructure. Staff were wasting time answering calls with zero value and there was no system to identify, log or block repeat offenders.
+Problem 2 — No consistent inbound call handling
+With 13 service lines and multiple local markets, there was no single standard for how calls were answered, what information was collected before booking, or how scheduling rules were enforced. Bookings were sometimes made on days that were unavailable, information was collected inconsistently, and customers were not always sent confirmations.
+Problem 3 — Complex scheduling rules with no enforcement
+The business has specific rules around same-day bookings, Friday and Saturday restrictions, fully booked blackout dates, and 3-hour appointment windows. These rules were being applied inconsistently across staff and were impossible to enforce at scale.
+
+THE SOLUTION
+Two interconnected systems deployed together
+System 1 — AI Inbound Voice Receptionist (VAPI)
+A friendly, professional AI receptionist that handles every inbound call across all 13 service niches. It answers questions about services and pricing, collects all required booking information in the correct order, enforces scheduling rules automatically, books appointments in real time, and sends confirmations to both the client team and the caller.
+
+
+System 2 — Custom Spam Detection and Blocking Database
+A purpose-built spam identification system that detects spam calls in real time, logs the number to a central database, and blocks that number from ever connecting again. The database currently holds over 40,000 confirmed spam numbers and grows automatically with every new spam call detected.
+
+
+HOW THE AI RECEPTIONIST WORKS — STEP BY STEP
+
+1
+Spam gate check
+Every incoming call is first checked against the spam number database before the agent even answers. If the number matches any of the 40,000+ logged entries, the call is rejected immediately and never reaches the agent. Zero cost, zero agent time used.
+
+
+2
+Warm inbound greeting
+For calls that pass the spam gate, the agent answers with a friendly, professional greeting specific to the service brand. It does not immediately push into booking — it listens first and responds to what the caller actually needs.
+
+
+3
+Service and pricing questions
+If the caller is asking about services or pricing, the agent answers accurately from the configured service list. Pricing is only shared when the caller asks. The agent never volunteers pricing unprompted and always clarifies that exact costs are confirmed by the technician on-site.
+
+
+4
+Scheduling intent detection
+The agent only moves into booking when the caller clearly signals they want to schedule. It does not ask about dates or availability unless the caller brings it up. This prevents premature booking flows and keeps the conversation natural.
+
+
+5
+Information collection in strict order
+When booking intent is confirmed, the agent collects all required information one question at a time: full name, phone number, service address, zip code, preferred date, and preferred 3-hour time window. No step is skipped.
+
+
+6
+Scheduling rules enforcement
+Before confirming any date, the agent checks: Is it a Saturday? (Always closed.) Is it same-day Friday? (Not allowed — Sunday offered.) Is the date on the blackout list? (Fully booked — nearest available suggested.) All other dates are open and booked normally.
+
+
+7
+Appointment confirmed and booked
+Once all information is collected and the date passes all checks, the appointment is booked. The agent confirms the day and date back to the caller — never the year — and thanks them before closing the call.
+
+
+8
+Team notification and lead SMS
+As soon as an appointment is booked, the owner and relevant staff receive an automated email and SMS with the caller's name, phone, address, zip code, service type, and confirmed appointment window. The caller receives a separate SMS confirming their booking.
+
+
+9
+Spam detection and logging
+If during any call the agent determines the caller is spam, it ends the call politely and immediately logs the number to the spam database. That number is permanently blocked from all future calls.
+
+
+
+THE SPAM BLOCKING SYSTEM — IN DETAIL
+This system was built entirely from scratch to solve a problem that was genuinely costing the client money on every spam call received. Before it existed, the client was receiving over 1,000 spam calls regularly — each one connecting to their phone infrastructure, consuming call minutes, and in some cases reaching a live person.
+The solution works in three layers:
+
+Layer 1 — Pre-answer number check
+Every call is screened against the spam database before it is answered. If the number is on the list, the call is blocked at the infrastructure level. Zero cost, zero agent involvement — the call never connects.
+Layer 2 — In-call spam detection
+For numbers not yet in the database, the AI agent handles the call normally. If the agent detects spam behaviour during the call — robotic patterns, irrelevant solicitation, known spam scripts — it ends the call and flags the number for blocking.
+Layer 3 — Automatic database logging
+Every newly detected spam number is written to the central database automatically. No manual review required. The database grows continuously and becomes more accurate and effective over time.
+
+40,000+
+Confirmed spam numbers in database
+3,000+
+Spam calls eliminated per period
+$0
+Cost per blocked spam call
+
+
+TECH STACK
+
+VAPI — voice AI infrastructure
+Custom inbound booking logic with blackout date enforcement
+Scheduling rule engine — Saturday/Friday/same-day/blackout logic
+Custom spam detection system — built from scratch
+Spam number database — 40,000+ entries, self-growing
+Pre-call number screening at the infrastructure level
+Automated email notifications to owner and staff
+SMS alerts to owner and staff on every booking
+SMS confirmation sent to the caller after every booking
+Multi-niche agent configuration — 13 service lines on shared infrastructure
+
+RESULTS & IMPACT
+
+Spam calls eliminated at scale
+Over 3,000 spam calls that were previously reaching the client's phone system are now blocked before they connect. The database has grown to over 40,000 numbers and expands automatically.
+Direct cost reduction
+Every blocked spam call is a call that no longer consumes telephony minutes or infrastructure costs. Across 13 service lines and high daily call volume, this represents measurable savings every month.
+Consistent call handling across all 13 niches
+Every inbound call — regardless of which service line it comes in on — is handled with the same professional standard, the same information collection process, and the same scheduling logic.
+Zero scheduling errors
+Saturday bookings, same-day Friday requests, and blackout date conflicts are handled automatically every time. The rules are enforced on every single call without exception.
+Complete booking information every time
+The agent never books an appointment without collecting name, phone, address, zip code, date, and time window. No incomplete records, no follow-up calls needed to fill in missing details.
+Instant team awareness on every booking
+Owner and staff receive an SMS and email the moment any appointment is confirmed across any of the 13 service lines.
+Callers confirmed immediately
+Every customer who books receives a personalised SMS confirmation with their appointment details sent directly to their phone.
+
+KEY DESIGN DECISIONS
+The agent was deliberately designed to listen before it pushes. It does not jump into scheduling the moment a caller connects — it waits for genuine intent before moving into the booking flow. This keeps the experience natural and prevents callers from feeling processed.
+The spam system was designed with cost reduction as the primary goal. Rather than filtering spam after it reaches the agent — which still consumes call infrastructure — the system blocks at the pre-answer layer so spam calls never connect at all. The self-growing database means the system gets more effective over time without any ongoing manual effort.
+Building one shared infrastructure across 13 service niches rather than 13 separate systems means every improvement — to the spam database, to the scheduling logic, to the notification system — benefits all service lines simultaneously.
+
+
+
+Gordon case Study
+Building a High-Velocity Lead Engine for Balcony Compliance
+1. The Problem: The "Deadline Crisis" & The Administrative Wall
+Gordon’s business is driven by the SB-326 and SB-721 laws, which mandate safety inspections for all multi-family buildings.
+The Prospecting Gap: There are thousands of buildings in California, but reaching the correct person (the property manager or the HOA board president) was a manual nightmare.
+The Intake Friction: When people needed an inspection, Gordon was receiving messy emails and phone calls with missing addresses and incomplete reports.
+The Proposal Bottleneck: After an inspection, Gordon had to manually calculate costs and draft repair bids. This took hours and delayed the closing of high-ticket repair contracts.
+2. The Strategy: The UNITZERO "Total Machine"
+Phase A: Precision Cold Outreach (The Apollo-Clay Stack) We implemented the Apollo $\rightarrow$ Clay $\rightarrow$ Smartlead workflow.
+Targeting: We filtered Apollo for California-based real estate firms and HOA management companies.
+Enrichment: Clay was used to scrape property websites and verify compliance status.
+The Hook: The emails hit on the specific pain point: “January 2026 is closer than it looks—is [Property Name] compliant yet?”
+Phase B: High-Conversion GoHighLevel Funnels We designed a professional "Compliance-Green" aesthetic to build immediate trust.
+Funnel 1 (Inspection Request): A logic-based form that captures the exact property type and urgency level.
+Funnel 2 (Service/Repair Request): This is the high-revenue funnel. It allows property managers to upload existing inspection reports directly. The system then alerts Gordon’s team that a "Ready-to-Repair" lead has arrived.
+Phase C: The AI Proposal Making Agent This is the "Secret Sauce." We built an agent that:
+Analyzes the uploaded inspection report.
+Extracts the deficiencies and required repairs.
+Generates a structured, professional proposal for the client.
+Syncs the deal value back to the GHL pipeline.
+3. The Results (Data & Impact)
+Feature
+Before UNITZERO
+After UNITZERO
+Lead Discovery
+Manual/Random
+Automated (Apollo/Clay)
+Email Relevance
+Generic/Ignore-able
+Highly Personalized (via AI)
+Intake Process
+Phone calls & messy emails
+Structured GHL Funnels
+Proposal Turnaround
+2–3 Days
+Instant (AI Generated)
+Market Position
+Local Consultant
+Statewide Compliance Leader
+
+The Bottom Line
+By automating the "Handshake" (Outreach) and the "Handoff" (Proposal), we allowed Gordon to scale his expertise without scaling his stress. The system finds the leads, the funnel captures the data, and the AI writes the bid. Gordon just has to approve and sign.
+"UNITZERO didn't just build me a website; they built an automated sales force. I can now reach thousands of property managers and send them a professional bid before my competitors have even returned their first phone call."
+
+Go Waka Car Finance - GHL - Case Study
+CASE STUDY
+Full CRM & Automation System Build
+Go Waka Car Finance
+Auckland, New Zealand  ·  GoHighLevel  ·  12 Workflows  ·  Live April 2026
+Client Overview
+Field
+Detail
+Business
+Go Waka Limited
+Industry
+Vehicle Finance / Consumer Lending
+Location
+Auckland, New Zealand
+Platform
+GoHighLevel (GHL)
+Status
+Live & Operational — April 2026
+
+
+
+The Problem
+When UNITZERO engaged with Go Waka, the business was running entirely on manual processes with no structured follow-up, no document tracking, and zero visibility into pipeline health. Eight critical operational gaps were identified:
+
+No Centralised Lead Management — Leads from Facebook and the website arrived in separate places. Sales reps manually checked Facebook Business Manager and email inboxes. Leads regularly slipped through without follow-up.
+Zero Automated Follow-Up — No immediate SMS or email response to new leads. Average first-contact time was measured in hours, sometimes days. In consumer finance, this directly kills conversion.
+No Admin Visibility — Management had no real-time alert when a new lead entered the system.
+Manual Document Collection — The finance team chased documents via WhatsApp and phone calls with no system to track what was sent, what was missing, or how long a file had been waiting.
+No Multi-Lender Submission Tracking — Go Waka submits to up to 8 lenders in sequence. There was no pipeline, no task system, and no escalation logic.
+No Lender Decision Automation — When a lender approved or declined, nothing happened automatically. The team manually notified contacts, updated records, and decided next steps — inconsistently.
+No Performance Visibility — No live view of lead volume, source breakdown, pipeline stage distribution, or team task load.
+Disconnected Marketing — Email campaigns were not segmented, tracked, or connected to the CRM.
+
+The Solution
+UNITZERO designed and deployed a complete, end-to-end GoHighLevel system — 12 published workflows, 2 custom pipelines, native Facebook Lead Ads integration, multi-lender routing, automated document collection, broadcast email campaigns, and a live operations dashboard.
+
+Core Philosophy: 100% native GHL. No ManyChat. No Zapier. No external bots. Zero additional monthly tool costs, zero API failure points.
+Technology Stack
+Tool
+Usage
+GoHighLevel (GHL)
+CRM, Pipelines, Workflows, Forms, Email, Dashboard
+Facebook / Meta Lead Ads
+Primary lead source
+GHL Email Builder
+Campaign design, broadcast, and tracking
+GHL Reporting
+Custom dashboard and live KPI tracking
+GHL Forms
+Document Confirmation Form + QA Form
+
+
+
+Dual-Pipeline Architecture
+Two custom pipelines were built to separate the lead journey from the lender journey, ensuring each team sees exactly the information relevant to their role.
+
+Pipeline 1 — Go Waka Leads (Sales & Finance View)
+Stage
+Purpose
+New Lead
+Auto-placed on entry from any ad source
+Contacted
+Sales rep has made first contact
+Document Requested
+Triggers document collection workflow
+Documents Received
+Auto-moved when lead confirms YES on form
+Ready to Submit
+Finance reviewed all docs — triggers lender workflow
+Submitted
+Application lodged with a lender
+On Hold
+Pending additional info or lender query
+Approved
+Lender approved — deal live
+Lost / Dead
+Cold, declined, or unresponsive
+
+
+Pipeline 2 — Go Waka Lenders (Finance Team View)
+Stage
+Purpose
+Submitted to Lender 1–8
+Sequential lender submission tracking per bank
+Approved
+Deal confirmed by a lender
+All Lenders Declined
+Manager escalation required
+
+
+
+The 12-Workflow Automation System
+All 12 workflows are published and live. Each workflow has a single, clear trigger and purpose — modular design means one workflow can be updated or paused without affecting the rest of the system.
+
+Workflow 1 — Facebook Lead Automation
+The primary entry point for all Facebook/Meta Lead Ad submissions. On each submission: tags the contact, creates a pipeline opportunity, assigns a sales rep, sends a welcome SMS within seconds, sends a branded welcome email, and creates a call task due within 1 hour.
+
+Workflow 2 — Lead Intake WorkFlow
+Handles non-Facebook sources — website enquiry forms and manually created contacts. Mirrors the Facebook workflow with source-specific tagging.
+
+Workflow 3 — New Lead Admin Notification
+Real-time alert system. Sends internal email and SMS to the admin the moment a lead enters the CRM — regardless of time of day. 325 notifications sent means management had visibility on every single lead.
+
+Workflow 4 — Document Alert & Form Confirmation
+The most strategically significant workflow. When a sales rep moves a lead to Documents Requested, the system sends a professional document request email, a simultaneous SMS nudge, automated reminders at 2 days and 4 days, and automatically moves the lead to Documents Received when they confirm — with zero manual input. 141 contacts are still being automatically followed up inside this workflow right now.
+
+Workflow 5 — Document Submitted
+Handles cases where leads send documents directly via email or in person rather than through the form. Sends confirmation SMS and creates the finance team review task.
+
+Workflow 6 — Extra Document Submitted
+Edge case handler for lender-requested additional documents. Notifies the finance team and sends acknowledgement to the lead.
+
+Workflow 7 — Q/A Form Submission
+Quality assurance layer before lender submission. Checks contact completeness, flags missing data, and logs QA completion.
+
+Workflow 8 — Bank Assignment
+Routes each application to the correct lender using a tag-based conditional system across all 8 lenders: Finance Now, Max Money, CTS Finance, Heart Land, Link Finance, Better Finance, Avanti, HTF. The finance team adds one tag — the workflow handles everything. Adding a 9th lender takes minutes.
+
+Workflow 9 — Lenders Update
+Tracks lender application status over time. Sends escalation alerts at 3-day and 20-day marks per lender — preventing deals from going stale. 35 live applications are being automatically tracked against lender deadlines right now.
+
+Workflow 10 — Bank Approval & Rejection
+Final decision handler. On rejection: removes lender tag and triggers Bank Assignment for the next lender automatically. On approval: moves to Approved in both pipelines, sends congratulations SMS and email to the lead with next steps, and creates an appointment task for the sales rep.
+
+Workflow 11 — Referral Email
+Automated referral campaign ($1,000 fuel voucher offer). Sends the referral sequence, waits 3 days for engagement, and creates a personal follow-up task for the sales team.
+
+Workflow 12 — Follow Up Workflow
+Re-engagement sequence for leads that went cold. Sends re-engagement SMS, follow-up email 2 days later, a final call task after 5 days, and automatically moves unresponsive leads to Lost / Dead.
+
+
+Operational Impact
+Area
+Before
+After
+First Response Time
+Hours / Days
+Seconds
+Document Follow-Up
+Manual WhatsApp + calls
+Fully automated
+Lender Tracking
+Memory + spreadsheet
+Live dual pipeline
+Escalation Alerts
+Never
+3-day + 20-day automated
+Admin Lead Visibility
+None
+325 real-time notifications
+Email Campaigns
+Disconnected
+98.9% delivery, 22.39% open rate
+Reporting
+Manual
+Live 8-widget dashboard
+Active Workflows
+0
+12 published, all live
+
+
+Live Operations Dashboard
+A custom Go Waka Operations Dashboard was built inside GHL Reporting as the default view for all team members — giving the full operational picture at a glance.
+
+Dashboard Widget
+Live Data
+Total Leads
+1,600+ contacts in system
+Facebook Leads
+557 tagged contacts
+Website Leads
+63 tagged contacts
+Pipeline Stage Funnel
+Visual distribution across all 9 stages
+Contacts by Source
+Social Media (494), Paid Social (170), Direct (49)
+Tasks Due Today
+Real-time team task load
+Workflow Execution Count
+3,520+ total across all 12 workflows
+Applications by Lender
+214 tracked across 8 banks
+
+
+Key Design Decisions
+12 separate workflows instead of fewer larger ones — Each workflow has a single, clear trigger and purpose. Modular design means one workflow can be updated or paused without affecting the rest of the system.
+Separate lender pipeline — Mixing lender tracking inside the lead pipeline creates noise for the sales team. Separating the two means each team sees exactly the information relevant to their role.
+Tag-based lender routing — The finance team adds a single tag and the system handles everything. Adding a 9th lender takes minutes, not hours.
+Form for document confirmation, not a tag — A form submitted by the lead creates an auditable, timestamped record and fires automation reliably. No staff input needed, and the lead feels ownership of their own application.
+3-day and 20-day escalation alerts — NZ finance lenders typically acknowledge within 3 business days. The 20-day mark represents an application going stale. Targeted escalations at meaningful thresholds drive action; daily alerts desensitise the team.
+
+Built by UNITZERO  ·  unitzero.tech  ·  Live & Operational — April 2026

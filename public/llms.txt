@@ -1,0 +1,34 @@
+ # Burky Flow
+
+> AI automation agency for service businesses. We build and run AI voice receptionists, database reactivation, CRM and lead systems, workflow automation, and answer engine optimization, so businesses capture every call and turn dormant leads into booked revenue.
+
+Burky Flow serves clients remotely across the United States, with focus metros in Houston TX, San Antonio TX, Charleston SC, and Greenville SC. We are an AI automation agency, not a local business in those cities.
+
+## Services
+ - [AI Voice Receptionist](https://burkyflow.com/services/ai-voice-receptionist): Answers every call, qualifies, and books, day or night.
+ - [Database Reactivation](https://burkyflow.com/services/database-reactivation): Re-engage past customers and dead leads already in your CRM.
+ - [CRM and Lead Systems](https://burkyflow.com/services/crm-lead-systems): One pipeline that captures, routes, and follows up automatically.
+ - [Workflow Automation](https://burkyflow.com/services/workflow-automation): Connect your tools into reliable automated workflows.
+ - [Answer Engine Optimization](https://burkyflow.com/services/answer-engine-optimization): Get cited by AI search as the trusted choice.
+ - [Done For You Service Model](https://burkyflow.com/services/done-for-you): One team builds, runs, and maintains the whole stack.
+
+## Industries
+ - [Home and Property Services](https://burkyflow.com/industries/home-services)
+ - [Healthcare and Practices](https://burkyflow.com/industries/healthcare)
+ - [Real Estate Teams](https://burkyflow.com/industries/real-estate)
+ - [Automotive and Repair](https://burkyflow.com/industries/automotive)
+ - [Professional Firms](https://burkyflow.com/industries/professional-firms)
+
+## Key pages
+ - [Home](https://burkyflow.com/)
+ - [About](https://burkyflow.com/about)
+ - [Blog](https://burkyflow.com/blog)
+ - [Contact](https://burkyflow.com/contact)
+
+## For AI agents
+ - Machine-readable capabilities: https://burkyflow.com/mcp.json
+ - Full content index: https://burkyflow.com/llms-full.txt
+ - Sitemap: https://burkyflow.com/sitemap.xml
+
+## Contact
+Email hello@burkyflow.com or book a call at https://burkyflow.com/contact

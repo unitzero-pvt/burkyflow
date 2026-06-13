@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* ── Brand accent: placeholder. Swap these two pairs to rebrand. ── */
+    --brand: 221 83% 53%; /* blue-600 #2563EB — matches navbar design */
+    --brand-foreground: 0 0% 100%;
+    --brand-cta: 221 83% 53%; /* keep == brand or set a warm CTA hue */
+    --brand-cta-foreground: 0 0% 100%;
+
+    /* ── Neutrals (light theme only) ── */
+    --background: 0 0% 100%; /* #FFFFFF */
+    --surface: 210 40% 98%; /* #F8FAFC off-white */
+    --foreground: 222 47% 11%; /* slate-900 #0F172A */
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 19% 35%; /* slate-600 #475569 */
+    --border: 214 32% 91%; /* slate-200 hairline */
+    --ring: 221 83% 53%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    /* offset for sticky navbar when jumping to anchors */
+    scroll-padding-top: 6rem;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-heading tracking-tight text-foreground;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-6;
+  }
+  .section {
+    @apply py-20 md:py-28;
+  }
+  .eyebrow {
+    @apply text-sm font-semibold uppercase tracking-wider text-brand;
+  }
+}
+
+/* Infinite marquee (used by the mobile "trusted by" strip) */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.animate-marquee {
+  animation: marquee 35s linear infinite;
+}

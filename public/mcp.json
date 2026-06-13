@@ -1,0 +1,86 @@
+{
+  "$schema": "https://modelcontextprotocol.io/schemas/web-mcp/draft/mcp.json",
+  "schemaVersion": "2025-draft",
+  "name": "Burky Flow",
+  "type": "agency",
+  "description": "Burky Flow is an AI automation agency for service businesses. We build and run AI voice receptionists, database reactivation, CRM and lead systems, workflow automation, and answer engine optimization so businesses capture every call and book more revenue.",
+  "url": "https://burkyflow.com",
+  "logo": "https://burkyflow.com/logo.png",
+  "contact": {
+    "email": "hello@burkyflow.com",
+    "form": "https://burkyflow.com/contact",
+    "scheduling": "https://burkyflow.com/contact"
+  },
+  "serviceArea": {
+    "type": "remote",
+    "regions": ["United States"],
+    "metros": ["Houston, TX", "San Antonio, TX", "Charleston, SC", "Greenville, SC"]
+  },
+  "services": [
+    {
+      "id": "ai-voice-receptionist",
+      "name": "AI Voice Receptionist",
+      "url": "https://burkyflow.com/services/ai-voice-receptionist",
+      "description": "A human-sounding AI voice that answers every call, qualifies the caller, and books the job, day or night."
+    },
+    {
+      "id": "database-reactivation",
+      "name": "Database Reactivation",
+      "url": "https://burkyflow.com/services/database-reactivation",
+      "description": "Re-engage past customers and dormant leads already in your CRM by SMS and AI voice."
+    },
+    {
+      "id": "crm-lead-systems",
+      "name": "CRM and Lead Systems",
+      "url": "https://burkyflow.com/services/crm-lead-systems",
+      "description": "One pipeline where every lead is captured, routed, and followed up automatically."
+    },
+    {
+      "id": "workflow-automation",
+      "name": "Workflow Automation",
+      "url": "https://burkyflow.com/services/workflow-automation",
+      "description": "Connect booking, CRM, invoicing, and inbox into reliable automated workflows."
+    },
+    {
+      "id": "answer-engine-optimization",
+      "name": "Answer Engine Optimization",
+      "url": "https://burkyflow.com/services/answer-engine-optimization",
+      "description": "Structure your site and content so AI search engines cite you as the trusted choice."
+    },
+    {
+      "id": "done-for-you",
+      "name": "Done For You Service Model",
+      "url": "https://burkyflow.com/services/done-for-you",
+      "description": "One team builds, runs, and maintains the full automation stack as a managed service."
+    }
+  ],
+  "industries": [
+    "Home and Property Services",
+    "Healthcare and Practices",
+    "Real Estate Teams",
+    "Automotive and Repair",
+    "Professional Firms"
+  ],
+  "capabilities": [
+    {
+      "name": "list_services",
+      "description": "Return the list of automation services Burky Flow offers, with descriptions and URLs.",
+      "endpoint": "https://burkyflow.com/mcp.json#/services"
+    },
+    {
+      "name": "get_service_areas",
+      "description": "Return the metros and regions Burky Flow serves remotely.",
+      "endpoint": "https://burkyflow.com/mcp.json#/serviceArea"
+    },
+    {
+      "name": "request_consultation",
+      "description": "Direct a prospective client to book a call or submit a project inquiry.",
+      "endpoint": "https://burkyflow.com/contact"
+    },
+    {
+      "name": "discover_pages",
+      "description": "Crawl the sitemap to discover all indexable pages.",
+      "endpoint": "https://burkyflow.com/sitemap.xml"
+    }
+  ]
+}
