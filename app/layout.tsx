@@ -35,13 +35,13 @@ export const metadata: Metadata = {
     title: `BurkyFlow — AI automation for service businesses`,
     description: site.tagline,
     url: site.url,
-    images: [{ url: "/images/burkylogo.png", width: 2205, height: 713, alt: site.name }],
+    images: [{ url: "/images/logo.png", width: 502, height: 502, alt: site.name }],
   },
   twitter: {
     card: "summary_large_image",
     title: `BurkyFlow — AI automation for service businesses`,
     description: site.tagline,
-    images: ["/images/burkylogo.png"],
+    images: ["/images/logo.png"],
   },
 };
 

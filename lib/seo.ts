@@ -15,8 +15,8 @@ export function pageMetadata({
   const url = `${site.url}${path}`;
   const ogImage = {
     url: "/images/logo.png",
-    width: 2205,
-    height: 713,
+    width: 502,
+    height: 502,
     alt: site.name,
   };
   return {
