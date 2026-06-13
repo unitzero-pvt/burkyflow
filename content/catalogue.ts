@@ -389,7 +389,7 @@ export const automationBranch: Branch = {
       ],
       faqs: [
         { q: "Is managed services required?", a: "It is not required, but every Branch A build is offered a Managed Services tier at hand-off. Default attach is Care." },
-        { q: "What does the Partner tier include that the others do not?", a: "A dedicated Slack channel, a 4-hour incident SLA, and unlimited minor changes — for clients who want UNITZERO embedded in the team." },
+        { q: "What does the Partner tier include that the others do not?", a: "A dedicated Slack channel, a 4-hour incident SLA, and unlimited minor changes — for clients who want BurkyFlow embedded in the team." },
       ],
     },
     {
@@ -810,7 +810,7 @@ export const bundleGroups: BundleGroup[] = [
           "The complete demand-to-conversion stack. Outbound fills the pipe; voice and CRM convert it.",
         outcomes: [
           "End-to-end visibility from prospect to booked meeting",
-          "Booked meetings sourced by UNITZERO, qualified by UNITZERO",
+          "Booked meetings sourced by BurkyFlow, qualified by BurkyFlow",
           "A single accountable team across demand and conversion",
         ],
       },
@@ -908,11 +908,11 @@ export const bundleGroups: BundleGroup[] = [
   },
   {
     heading: "Full-stack",
-    lead: "For clients who want UNITZERO to run the entire revenue function.",
+    lead: "For clients who want BurkyFlow to run the entire revenue function.",
     bundles: [
       {
         slug: "full-stack-unitzero",
-        name: "Full-Stack UNITZERO",
+        name: "Full-Stack BurkyFlow",
         tagline: "The complete operating system",
         components: [
           "Voice Enterprise",
@@ -923,14 +923,14 @@ export const bundleGroups: BundleGroup[] = [
           "Booking Engine + Dashboard",
           "Care",
         ],
-        bestFor: "Funded SMBs and agencies that want UNITZERO running the entire revenue function.",
+        bestFor: "Funded SMBs and agencies that want BurkyFlow running the entire revenue function.",
         whyThisBundle: "One team, one dashboard, one accountability line — across demand generation, inbound capture, conversion, and reporting.",
       },
       {
         slug: "full-stack-plus-reactivation",
         name: "Full-Stack + Reactivation",
         tagline: "Add the dormant-database revenue engine",
-        components: ["Everything in Full-Stack UNITZERO", "Reactivation Engine"],
+        components: ["Everything in Full-Stack BurkyFlow", "Reactivation Engine"],
         bestFor: "Full-Stack clients sitting on years of CRM data.",
         whyThisBundle: "Layers the ongoing reactivation play on top of full-stack so dormant revenue compounds month after month.",
       },
@@ -938,8 +938,8 @@ export const bundleGroups: BundleGroup[] = [
         slug: "full-stack-plus-brand",
         name: "Full-Stack + Brand",
         tagline: "Add founder brand and AI discoverability",
-        components: ["Everything in Full-Stack UNITZERO", "Full Persona Studio", "AEO Growth"],
-        bestFor: "Founders who want UNITZERO running the revenue engine and the brand engine.",
+        components: ["Everything in Full-Stack BurkyFlow", "Full Persona Studio", "AEO Growth"],
+        bestFor: "Founders who want BurkyFlow running the revenue engine and the brand engine.",
         whyThisBundle: "Founder persona content and AEO visibility make every outbound and ad touchpoint land on a warmer brand.",
       },
       {
@@ -947,12 +947,12 @@ export const bundleGroups: BundleGroup[] = [
         name: "The Empire Package",
         tagline: "Everything plus custom dev and strategy",
         components: [
-          "Everything in Full-Stack UNITZERO",
+          "Everything in Full-Stack BurkyFlow",
           "Custom Web / App build",
           "Strategy Sprint",
           "Partner Managed Services",
         ],
-        bestFor: "Operators building a defensible, technology-led business with UNITZERO as the long-term partner.",
+        bestFor: "Operators building a defensible, technology-led business with BurkyFlow as the long-term partner.",
         whyThisBundle: "Full revenue engine, custom product surface, ongoing strategy, and the Partner-tier SLA. The whole company on one team.",
       },
     ],

@@ -8,7 +8,7 @@ export const stats = [
 // Global FAQ shown on the homepage.
 export const homeFaqs = [
   {
-    q: "What does UNITZERO actually do?",
+    q: "What does BurkyFlow actually do?",
     a: "We build and run AI automation systems for service businesses: an AI voice receptionist, database reactivation, CRM and lead systems, and the workflows that connect them. We operate the system for you so you get booked jobs, not another tool to manage.",
   },
   {

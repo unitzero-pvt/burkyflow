@@ -82,7 +82,7 @@ export const caseStudies: CaseStudy[] = [
       { metric: "Reporting", before: "Manual", after: "Live 8-widget dashboard" },
     ],
     quote: {
-      text: "UNITZERO didn't just organize our leads; they gave us an automated infrastructure that scales with us. We went from guessing our numbers to seeing them live, every single day.",
+      text: "BurkyFlow didn't just organize our leads; they gave us an automated infrastructure that scales with us. We went from guessing our numbers to seeing them live, every single day.",
       attribution: "Go Waka Car Finance",
     },
     status: "Live & operational — April 2026",
@@ -138,7 +138,7 @@ export const caseStudies: CaseStudy[] = [
       { metric: "Market position", before: "Local consultant", after: "Statewide compliance leader" },
     ],
     quote: {
-      text: "UNITZERO didn't just build me a website; they built an automated sales force. I can now reach thousands of property managers and send them a professional bid before my competitors have even returned their first phone call.",
+      text: "BurkyFlow didn't just build me a website; they built an automated sales force. I can now reach thousands of property managers and send them a professional bid before my competitors have even returned their first phone call.",
       attribution: "Gordon, Gordon Construction Consultancy",
     },
     relatedServices: ["crm-lead-systems", "workflow-automation", "done-for-you"],
@@ -242,7 +242,7 @@ export const caseStudies: CaseStudy[] = [
       "24/7 professional response across every service line",
     ],
     quote: {
-      text: "UNITZERO didn't just give us a voice bot; they built a security system for our phone lines and a professional booking engine that never makes a scheduling mistake across all 13 of our business lines.",
+      text: "BurkyFlow didn't just give us a voice bot; they built a security system for our phone lines and a professional booking engine that never makes a scheduling mistake across all 13 of our business lines.",
       attribution: "ARIK Services",
     },
     relatedServices: ["ai-voice-receptionist", "crm-lead-systems", "workflow-automation"],
@@ -297,7 +297,7 @@ export const caseStudies: CaseStudy[] = [
       { metric: "Recovered no-shows", before: "0%", after: "62%" },
     ],
     quote: {
-      text: "UNITZERO didn't just give us a bot; they gave us our time back and stopped the bleeding in our bottom line.",
+      text: "BurkyFlow didn't just give us a bot; they gave us our time back and stopped the bleeding in our bottom line.",
       attribution: "EZ Cribs",
     },
     relatedServices: ["ai-voice-receptionist", "crm-lead-systems", "workflow-automation"],
