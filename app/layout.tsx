@@ -29,6 +29,20 @@ export const metadata: Metadata = {
   },
   description: site.tagline,
   icons: { icon: "/favicon.ico" },
+  openGraph: {
+    type: "website",
+    siteName: site.name,
+    title: `BurkyFlow — AI automation for service businesses`,
+    description: site.tagline,
+    url: site.url,
+    images: [{ url: "/images/burkylogo.png", width: 2205, height: 713, alt: site.name }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: `BurkyFlow — AI automation for service businesses`,
+    description: site.tagline,
+    images: ["/images/burkylogo.png"],
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

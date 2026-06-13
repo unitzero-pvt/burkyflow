@@ -13,6 +13,12 @@ export function pageMetadata({
   noindex?: boolean;
 }): Metadata {
   const url = `${site.url}${path}`;
+  const ogImage = {
+    url: "/images/logo.png",
+    width: 2205,
+    height: 713,
+    alt: site.name,
+  };
   return {
     title,
     description,
@@ -24,8 +30,9 @@ export function pageMetadata({
       url,
       siteName: site.name,
       type: "website",
+      images: [ogImage],
     },
-    twitter: { card: "summary_large_image", title, description },
+    twitter: { card: "summary_large_image", title, description, images: [ogImage.url] },
   };
 }
 
